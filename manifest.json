@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "The Storybook Atlas",
+  "short_name": "Storybook Atlas",
+  "description": "A personal home for your storybook destinations and the stories you share.",
+  "lang": "en",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#f7f4eb",
+  "theme_color": "#f7f4eb",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
